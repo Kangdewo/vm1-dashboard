@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26T06:50:08Z",
-  "weather_updated_at": "2026-10-26T06:50:07Z",
-  "news_updated_at": "2026-10-26T06:50:08Z",
+  "updated_at": "2026-10-26T06:54:05Z",
+  "weather_updated_at": "2026-10-26T06:54:03Z",
+  "news_updated_at": "2026-10-26T06:54:04Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
-    "generationtime_ms": 7.165431976318359,
+    "generationtime_ms": 1.5548467636108398,
     "utc_offset_seconds": 28800,
     "timezone": "Asia/Shanghai",
     "timezone_abbreviation": "GMT+8",
@@ -1780,8 +1780,13 @@
       "category": "chengdu"
     }
   ],
-  "gold": null,
-  "gold_updated_at": null,
+  "gold": {
+    "price_usd_oz": 4009.0,
+    "symbol": "XAU",
+    "updated_at": "2026-10-26T06:53:43Z",
+    "source": "Gold API"
+  },
+  "gold_updated_at": "2026-10-26T06:54:05Z",
   "earthquakes": [
     {
       "magnitude": 4.5,
@@ -1798,9 +1803,7 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-10-26T06:50:08Z",
-  "last_attempt_at": "2026-10-26T06:50:08Z",
-  "errors": [
-    "gold: <urlopen error [Errno -2] Name or service not known>"
-  ]
+  "earthquakes_updated_at": "2026-10-26T06:54:04Z",
+  "last_attempt_at": "2026-10-26T06:54:05Z",
+  "errors": []
 }
