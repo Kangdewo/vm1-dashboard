@@ -1,0 +1,20 @@
+{
+  "updated_at": null,
+  "weather_updated_at": null,
+  "news_updated_at": null,
+  "weather": null,
+  "news": [],
+  "gold": null,
+  "gold_updated_at": null,
+  "earthquakes": [],
+  "official_alerts": [],
+  "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
+  "earthquakes_updated_at": null,
+  "last_attempt_at": "2026-10-26T05:48:56Z",
+  "errors": [
+    "weather: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "news: 所有新闻来源均失败",
+    "earthquakes: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "gold: <urlopen error [Errno -3] Temporary failure in name resolution>"
+  ]
+}
