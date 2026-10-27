@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27T04:35:25Z",
-  "weather_updated_at": "2026-10-27T04:35:23Z",
-  "news_updated_at": "2026-10-27T04:35:24Z",
+  "updated_at": "2026-10-27T04:36:47Z",
+  "weather_updated_at": "2026-10-27T04:36:45Z",
+  "news_updated_at": "2026-10-27T04:36:46Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
-    "generationtime_ms": 1.8447637557983398,
+    "generationtime_ms": 3.9293766021728516,
     "utc_offset_seconds": 28800,
     "timezone": "Asia/Shanghai",
     "timezone_abbreviation": "GMT+8",
@@ -1573,14 +1573,14 @@
         16,
         14,
         13,
-        12,
-        12,
-        12,
-        12,
-        12,
         13,
+        13,
+        12,
+        9,
+        5,
+        3,
+        7,
         14,
-        16,
         18
       ]
     },
@@ -1731,17 +1731,10 @@
       "category": "chengdu"
     },
     {
-      "title": "携手提升发展能级 成渝共筑重要增长极",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZE8zZkR3UXI3YkM2Z3k1MXhNQnRzQ0xWSm4zX1VISUFzS3lwLTRqWng1VTEyMk5kQjJhRlI2Y0tNektkSVZJbDA3XzNnbmhFQ3dhSnFHMHJoTWdTaW5GNVpuSVBxVmF4cjI2ZG12dERONHFsb2c?oc=5",
-      "source": "新浪新闻_手机新浪网",
-      "published": "2026-10-27T02:58+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "成都出台房产新政-36氪",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WMld2N1JfcFU1bTZJMk5BcFFDd3l6MnZZVUlsTDFsY0Jkd2Z3MGN0OWg1cEpCUGozS2hQQXlhM281YXNHTzkxYm5VQQ?oc=5",
-      "source": "36kr.com",
-      "published": "2026-10-27T02:07+00:00",
+      "title": "推行现房销售定金制，成都出台楼市新政",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nNllpWFhPMm5LYXRobEVFR3FHX29Ob3hkNmJyRkd1bXhIdm1xQ0Uyc05YMzd6OEUwVWczVHpXUnh2ZmplMGNkanN1YUxpVDNHcS0yamM2WWw5RldGT0E?oc=5",
+      "source": "京报网",
+      "published": "2026-10-27T02:09+00:00",
       "category": "chengdu"
     },
     {
@@ -1780,6 +1773,13 @@
       "category": "world"
     },
     {
+      "title": "以流量串联产业带 以节点激活生态圈 平台如何为更多产业搭台？",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWNETlZJMElnUU1BVW40LUpRQ1hzSlpydlBXeHNlY0NLcXZvMkVDNXdlVUYxTEJtRHdUQXJ1YzVKQkdmVXpnbXdZQkYxd3d4NzR4UmVhc0JOMFJuWmdLMERYWnNEY3BSSk9BYkZIRnBraFZveVBNSk9GcmZCT0twMldqdDhtS0t3?oc=5",
+      "source": "搜狐网",
+      "published": "2026-10-27T00:28+00:00",
+      "category": "chengdu"
+    },
+    {
       "title": "伊朗、沙特、土耳其、巴基斯坦在德黑兰举行首次四方安全会议，发表联合声明同意继续安全对话",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xenJFNWVvZ1hxMzEtUWJJeURuQ1pacTNxeVhwd3BGS1ZFNEVDQUVIZDFiQjBrN2I5eURXaG8wTzRDQjlMVi1USzIzMEZxMU5nb3c?oc=5",
       "source": "凤凰网",
@@ -1795,12 +1795,12 @@
     }
   ],
   "gold": {
-    "price_usd_oz": 4021.800049,
+    "price_usd_oz": 4020.5,
     "symbol": "XAU",
-    "updated_at": "2026-10-27T04:35:17Z",
+    "updated_at": "2026-10-27T04:36:17Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-10-27T04:35:25Z",
+  "gold_updated_at": "2026-10-27T04:36:47Z",
   "earthquakes": [
     {
       "magnitude": 4.5,
@@ -1811,7 +1811,7 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-10-27T04:35:24Z",
-  "last_attempt_at": "2026-10-27T04:35:25Z",
+  "earthquakes_updated_at": "2026-10-27T04:36:47Z",
+  "last_attempt_at": "2026-10-27T04:36:47Z",
   "errors": []
 }
