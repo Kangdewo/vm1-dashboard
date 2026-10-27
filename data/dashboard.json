@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27T04:24:23Z",
-  "weather_updated_at": "2026-10-27T04:24:19Z",
-  "news_updated_at": "2026-10-27T04:24:20Z",
+  "updated_at": "2026-10-27T04:35:25Z",
+  "weather_updated_at": "2026-10-27T04:35:23Z",
+  "news_updated_at": "2026-10-27T04:35:24Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
-    "generationtime_ms": 2.6804208755493164,
+    "generationtime_ms": 1.8447637557983398,
     "utc_offset_seconds": 28800,
     "timezone": "Asia/Shanghai",
     "timezone_abbreviation": "GMT+8",
@@ -22,15 +22,15 @@
       "wind_gusts_10m": "km/h"
     },
     "current": {
-      "time": "2026-10-27T12:15",
+      "time": "2026-10-27T12:30",
       "interval": 900,
-      "temperature_2m": 18.5,
-      "relative_humidity_2m": 46,
-      "apparent_temperature": 17.4,
+      "temperature_2m": 18.6,
+      "relative_humidity_2m": 47,
+      "apparent_temperature": 17.5,
       "weather_code": 3,
-      "wind_speed_10m": 1.7,
-      "wind_direction_10m": 122,
-      "wind_gusts_10m": 9.0
+      "wind_speed_10m": 1.8,
+      "wind_direction_10m": 114,
+      "wind_gusts_10m": 9.4
     },
     "hourly_units": {
       "time": "iso8601",
@@ -1573,14 +1573,14 @@
         16,
         14,
         13,
-        13,
-        13,
         12,
-        9,
-        5,
-        3,
-        7,
+        12,
+        12,
+        12,
+        12,
+        13,
         14,
+        16,
         18
       ]
     },
@@ -1724,11 +1724,53 @@
   },
   "news": [
     {
+      "title": "立园靠机制，入园凭速度，满园见生态 成都崇州空天产业成链成势",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTZoWmNNVmlVTTZSdVlWSFUwMUdUYl9USUlYVGJ4eEhiaEVvSUVoa0dyUVBVU3VxNjlFTC1RM1RLT3NKa3ZzNE5HWV9JNWo1dHJEWTFVRVl5ejZkcUJXOWk2U2JjSm1GNFRiYTdUOVBweDA4cDZMcVBoZ3dIYWFaS3BWQlBjcDNUOHJadUNB?oc=5",
+      "source": "手机新浪网",
+      "published": "2026-10-27T03:08+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "携手提升发展能级 成渝共筑重要增长极",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZE8zZkR3UXI3YkM2Z3k1MXhNQnRzQ0xWSm4zX1VISUFzS3lwLTRqWng1VTEyMk5kQjJhRlI2Y0tNektkSVZJbDA3XzNnbmhFQ3dhSnFHMHJoTWdTaW5GNVpuSVBxVmF4cjI2ZG12dERONHFsb2c?oc=5",
+      "source": "新浪新闻_手机新浪网",
+      "published": "2026-10-27T02:58+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "成都出台房产新政-36氪",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WMld2N1JfcFU1bTZJMk5BcFFDd3l6MnZZVUlsTDFsY0Jkd2Z3MGN0OWg1cEpCUGozS2hQQXlhM281YXNHTzkxYm5VQQ?oc=5",
+      "source": "36kr.com",
+      "published": "2026-10-27T02:07+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "光大期货1027黄金点评：金价小幅反弹，高利率压制仍未解除",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdVFuX2VYNG1pV0gzVm93TEtIcEpheUJfbUlKc1pZdmtNYkoySkgzUGI1Z1lLVmtKSng2R3JyUHZ1Y0RHVGtpMjNMXzcwZnF0M2pSODlvOXNZOXkzR3I5NGM1S3NILXpaYk9iY25mbTFmSEZwalN5djVHaFBiUG1Hblg0aHZMNzRpTUZvQm1Zd2FTTjZsenoxMGNHdjBwU29YM2dielhxMEROVzdoSGU2Vk9JenE5Q2l4ZW1zZXRBNnVJZ2FrY0RLMTJDLUZyRElKMzhHMHFaQ0tIbHkwb19xZA?oc=5",
+      "source": "新浪财经",
+      "published": "2026-10-27T01:32+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "人民币兑美元中间价报6.7171，下调9点",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmxXeUM1V1Z2LXFyTGdLZjZaWEhsS2x1R1AwMkZfLVVnOFVxekZjRzRBNmE1LUdvWS1TRENqTHRZT0xla2JMMHE5RXZNUTU5TmhHVWJ2aHFieG9UdlZUTjRrOW5yS2o2dWsyVjI4MG5ERWxXNnFsSTcwUmhYRHRWS0YxWGRSeTg?oc=5",
+      "source": "新浪财经",
+      "published": "2026-10-27T01:16+00:00",
+      "category": "finance"
+    },
+    {
       "title": "外交政策：为什么普京的支持者越来越多地是美国人？",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EdDJjSkNUazctbXY0eWtkd3N2N1VVLVpia0tWYm8xeW9VZ1NCVUhZYnZtQTJtckVjVHZSbTV5VVlsSTI4NUVTYnFNV1JQN2tXalBISmo3bFVrdw?oc=5",
       "source": "加美财经",
       "published": "2026-10-27T01:00+00:00",
       "category": "world"
+    },
+    {
+      "title": "美联储本周决议将风平浪静？高盛预测：不会加息、也不会释放重大新信号",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ER01KNVB3YUZteE4tUFhoWDhfbW5wRzNReFRSSmNGcnZBZGNubnRpZlNxU0tiZVAzUXpCNkxjVkNMeERXbU1wbVZxNm5hUmh2ZmdndHB2WDM2TGVwdEtfcDEtX1R0aFNmNGc?oc=5",
+      "source": "中金在线",
+      "published": "2026-10-27T00:55+00:00",
+      "category": "finance"
     },
     {
       "title": "梅德韦杰夫够狠，拿委内瑞拉模式影射泽连斯基，特朗普会接招吗？",
@@ -1750,57 +1792,15 @@
       "source": "https://haiwaiwai.com/",
       "published": "2026-10-26T23:43+00:00",
       "category": "world"
-    },
-    {
-      "title": "光大期货1027黄金点评：金价小幅反弹，高利率压制仍未解除",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdVFuX2VYNG1pV0gzVm93TEtIcEpheUJfbUlKc1pZdmtNYkoySkgzUGI1Z1lLVmtKSng2R3JyUHZ1Y0RHVGtpMjNMXzcwZnF0M2pSODlvOXNZOXkzR3I5NGM1S3NILXpaYk9iY25mbTFmSEZwalN5djVHaFBiUG1Hblg0aHZMNzRpTUZvQm1Zd2FTTjZsenoxMGNHdjBwU29YM2dielhxMEROVzdoSGU2Vk9JenE5Q2l4ZW1zZXRBNnVJZ2FrY0RLMTJDLUZyRElKMzhHMHFaQ0tIbHkwb19xZA?oc=5",
-      "source": "新浪财经",
-      "published": "2026-10-27T01:32+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "人民币兑美元中间价报6.7171，下调9点",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmxXeUM1V1Z2LXFyTGdLZjZaWEhsS2x1R1AwMkZfLVVnOFVxekZjRzRBNmE1LUdvWS1TRENqTHRZT0xla2JMMHE5RXZNUTU5TmhHVWJ2aHFieG9UdlZUTjRrOW5yS2o2dWsyVjI4MG5ERWxXNnFsSTcwUmhYRHRWS0YxWGRSeTg?oc=5",
-      "source": "新浪财经",
-      "published": "2026-10-27T01:16+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "美联储本周决议将风平浪静？高盛预测：不会加息、也不会释放重大新信号",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ER01KNVB3YUZteE4tUFhoWDhfbW5wRzNReFRSSmNGcnZBZGNubnRpZlNxU0tiZVAzUXpCNkxjVkNMeERXbU1wbVZxNm5hUmh2ZmdndHB2WDM2TGVwdEtfcDEtX1R0aFNmNGc?oc=5",
-      "source": "中金在线",
-      "published": "2026-10-27T00:55+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "立园靠机制，入园凭速度，满园见生态 成都崇州空天产业成链成势",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTZoWmNNVmlVTTZSdVlWSFUwMUdUYl9USUlYVGJ4eEhiaEVvSUVoa0dyUVBVU3VxNjlFTC1RM1RLT3NKa3ZzNE5HWV9JNWo1dHJEWTFVRVl5ejZkcUJXOWk2U2JjSm1GNFRiYTdUOVBweDA4cDZMcVBoZ3dIYWFaS3BWQlBjcDNUOHJadUNB?oc=5",
-      "source": "手机新浪网",
-      "published": "2026-10-27T03:08+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "成都出台房产新政-36氪",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WMld2N1JfcFU1bTZJMk5BcFFDd3l6MnZZVUlsTDFsY0Jkd2Z3MGN0OWg1cEpCUGozS2hQQXlhM281YXNHTzkxYm5VQQ?oc=5",
-      "source": "36kr.com",
-      "published": "2026-10-27T02:07+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "以流量串联产业带 以节点激活生态圈 平台如何为更多产业搭台？",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWNETlZJMElnUU1BVW40LUpRQ1hzSlpydlBXeHNlY0NLcXZvMkVDNXdlVUYxTEJtRHdUQXJ1YzVKQkdmVXpnbXdZQkYxd3d4NzR4UmVhc0JOMFJuWmdLMERYWnNEY3BSSk9BYkZIRnBraFZveVBNSk9GcmZCT0twMldqdDhtS0t3?oc=5",
-      "source": "搜狐网",
-      "published": "2026-10-27T00:28+00:00",
-      "category": "chengdu"
     }
   ],
   "gold": {
-    "price_usd_oz": 4024.699951,
+    "price_usd_oz": 4021.800049,
     "symbol": "XAU",
-    "updated_at": "2026-10-27T04:24:17Z",
+    "updated_at": "2026-10-27T04:35:17Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-10-27T04:24:23Z",
+  "gold_updated_at": "2026-10-27T04:35:25Z",
   "earthquakes": [
     {
       "magnitude": 4.5,
@@ -1811,7 +1811,7 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-10-27T04:24:21Z",
-  "last_attempt_at": "2026-10-27T04:24:23Z",
+  "earthquakes_updated_at": "2026-10-27T04:35:24Z",
+  "last_attempt_at": "2026-10-27T04:35:25Z",
   "errors": []
 }
