@@ -144,6 +144,9 @@ def fetch_news():
     rows = []
     for c in ("world", "finance", "chengdu"):
         rows += groups[c]
+
+    # 保留各类别配额，最终按发布时间从新到旧排序
+    rows.sort(key=lambda x: x["published"], reverse=True)
     return rows[:10]
 
 
