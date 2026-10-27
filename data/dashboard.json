@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27T03:24:33Z",
-  "weather_updated_at": "2026-10-27T03:24:31Z",
-  "news_updated_at": "2026-10-27T03:24:32Z",
+  "updated_at": "2026-10-27T04:24:23Z",
+  "weather_updated_at": "2026-10-27T04:24:19Z",
+  "news_updated_at": "2026-10-27T04:24:20Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
-    "generationtime_ms": 2.1371841430664062,
+    "generationtime_ms": 2.6804208755493164,
     "utc_offset_seconds": 28800,
     "timezone": "Asia/Shanghai",
     "timezone_abbreviation": "GMT+8",
@@ -22,15 +22,15 @@
       "wind_gusts_10m": "km/h"
     },
     "current": {
-      "time": "2026-10-27T11:15",
+      "time": "2026-10-27T12:15",
       "interval": 900,
-      "temperature_2m": 17.9,
-      "relative_humidity_2m": 47,
-      "apparent_temperature": 16.7,
+      "temperature_2m": 18.5,
+      "relative_humidity_2m": 46,
+      "apparent_temperature": 17.4,
       "weather_code": 3,
-      "wind_speed_10m": 2.1,
-      "wind_direction_10m": 105,
-      "wind_gusts_10m": 8.6
+      "wind_speed_10m": 1.7,
+      "wind_direction_10m": 122,
+      "wind_gusts_10m": 9.0
     },
     "hourly_units": {
       "time": "iso8601",
@@ -1573,14 +1573,14 @@
         16,
         14,
         13,
-        12,
-        12,
-        12,
-        12,
-        12,
         13,
+        13,
+        12,
+        9,
+        5,
+        3,
+        7,
         14,
-        16,
         18
       ]
     },
@@ -1738,22 +1738,22 @@
       "category": "world"
     },
     {
-      "title": "古特雷斯在埃及警告美伊冲突升级风险",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qSElyWXFsd1Z3Q08zTThkdThVOEFIQmtPMTFUMlMzNkJyQURPUl9ycDF2WW5oSXVXTjRjZjhvWUpPOE91cWRHX0l2RG5VS1NpbHJ4NFlXbw?oc=5",
-      "source": "UN News",
-      "published": "2026-10-26T17:27+00:00",
+      "title": "伊朗、沙特、土耳其、巴基斯坦在德黑兰举行首次四方安全会议，发表联合声明同意继续安全对话",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xenJFNWVvZ1hxMzEtUWJJeURuQ1pacTNxeVhwd3BGS1ZFNEVDQUVIZDFiQjBrN2I5eURXaG8wTzRDQjlMVi1USzIzMEZxMU5nb3c?oc=5",
+      "source": "凤凰网",
+      "published": "2026-10-26T23:54+00:00",
       "category": "world"
     },
     {
-      "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBENHpCLU9pN0NFcWpOZGJ1cnloZWFKYm14N0NLdmxNMXAtNmlOZDFEemZtRDhsb04tV3hRR3VITUpETkRyN2xOV21GX2NhQ0JVU3hn?oc=5",
-      "source": "华尔街见闻",
-      "published": "2026-10-26T06:29+00:00",
+      "title": "舍近求远还是顺势而为？台湾航空重返俄空背后的外交玄机",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CN2p6cDNISjV5VDhmOUhWQ0w5cEF1clFkRnFWc3VHaTcwN3lueTNHX3RFNlp6LXQ1NFE4UUFoVGhBZFc3bE9ocg?oc=5",
+      "source": "https://haiwaiwai.com/",
+      "published": "2026-10-26T23:43+00:00",
       "category": "world"
     },
     {
       "title": "光大期货1027黄金点评：金价小幅反弹，高利率压制仍未解除",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPREVuY3lqT0xVY1Z6ODdDNElFQnV1ZWFqSFFydlQ5V0plbzFnMjBxbjBoV19WUTdzNEdYU2gtUVRJSnY4MVZfQmlGTFFRZ3ZOU3g1YXN5UnJleVV0b0VqSS03SV84N2V6bjFJa1FlXy1iVk01SmFDQVhRTlJQcFdSSFRLQzJ2ZmZDdi1nb0k5RDMwNzNJYVJ5QkJ0RFd1dXdHSkdtTXVBRUZ5NVhrZmZobTNJeklXeWNkd0VuWTdBTmhVTllmQWFEem1UUV9CUUhGM01JcDVNMkJjd2JCblk3eQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdVFuX2VYNG1pV0gzVm93TEtIcEpheUJfbUlKc1pZdmtNYkoySkgzUGI1Z1lLVmtKSng2R3JyUHZ1Y0RHVGtpMjNMXzcwZnF0M2pSODlvOXNZOXkzR3I5NGM1S3NILXpaYk9iY25mbTFmSEZwalN5djVHaFBiUG1Hblg0aHZMNzRpTUZvQm1Zd2FTTjZsenoxMGNHdjBwU29YM2dielhxMEROVzdoSGU2Vk9JenE5Q2l4ZW1zZXRBNnVJZ2FrY0RLMTJDLUZyRElKMzhHMHFaQ0tIbHkwb19xZA?oc=5",
       "source": "新浪财经",
       "published": "2026-10-27T01:32+00:00",
       "category": "finance"
@@ -1795,12 +1795,12 @@
     }
   ],
   "gold": {
-    "price_usd_oz": 4006.899902,
+    "price_usd_oz": 4024.699951,
     "symbol": "XAU",
-    "updated_at": "2026-10-27T03:24:17Z",
+    "updated_at": "2026-10-27T04:24:17Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-10-27T03:24:33Z",
+  "gold_updated_at": "2026-10-27T04:24:23Z",
   "earthquakes": [
     {
       "magnitude": 4.5,
@@ -1811,7 +1811,7 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-10-27T03:24:32Z",
-  "last_attempt_at": "2026-10-27T03:24:33Z",
+  "earthquakes_updated_at": "2026-10-27T04:24:21Z",
+  "last_attempt_at": "2026-10-27T04:24:23Z",
   "errors": []
 }
