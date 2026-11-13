@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T01:27:07Z",
+  "updated_at": "2026-11-13T08:25:09Z",
   "weather_updated_at": "2026-11-13T01:27:05Z",
-  "news_updated_at": "2026-11-13T01:27:07Z",
+  "news_updated_at": "2026-11-13T08:25:08Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,6 +1724,20 @@
   },
   "news": [
     {
+      "title": "金银市场惨遭“血洗”！英伟达巨震引发连锁抛售 金价狂泻超135美元创年内新低、白银跌破50美元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanp2bk9JeTM5MUlEalU1RU9hZ2taWnpnVUViRDhuTFVMdElNX1V5eFFhczhrNWN4QXlHbWZTbFhraVN2amVZSkpFMmNwZGJhd3NXZXQwX2YwVlA4R0xiTFI5TXB4d2pnd0UzV3pveEpFbDhHZUNIdThqUi1wSkk1cEtvd0pXZVlj?oc=5",
+      "source": "Sohu",
+      "published": "2026-11-13T05:46+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "成都锦江经开区书写超大城市中心城区未来产业“进化论”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DQlRZQVZQajBwVTJhQjBGalZZZGFaZjlMTzRjdDFFUWZHNm0tcnRHZmhVeUdaWmVwcmZ3UXM0U2RKclR0YW5qTVRJdi13S1RRNURNUFRnM2JYTU95U3c?oc=5",
+      "source": "京报网",
+      "published": "2026-11-13T05:21+00:00",
+      "category": "chengdu"
+    },
+    {
       "title": "黄金交易提醒：特朗普一句“不需要协议”引爆油价，金价暴跌创一年新低",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OR25PVVV6ZzZmN0wzQzhjanAxY3hBNTJ3bmdqeGJ3RzdDRVEwV1hUNWs5X1FINmNXeklJZy1vSW41Si1CcURzTVBWelZYNDRpNk9hMWVkWWlTSTA?oc=5",
       "source": "汇通网",
@@ -1745,18 +1759,18 @@
       "category": "chengdu"
     },
     {
+      "title": "三问“成都港”",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBadnNqUWFmYmxJd19mb3Fsbm4zRVprOVByRWlSNHBnNktjdHZrcFc1Nm55R2FWS1dhQW5zdDdDU1R2akEtRHBLQmV6MV83QUI3RE52YlhaSHo2aGFPOUxjY2FXdVQ3RkRWVGpHRmlJV1EycUFYY1FQNw?oc=5",
+      "source": "新浪财经_金融信息服务商",
+      "published": "2026-11-12T22:23+00:00",
+      "category": "chengdu"
+    },
+    {
       "title": "彭劍：美伊衝突降溫 結束戰爭的窗口已打開",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WZm1ucjNOVVJYSW5wTFZDMmJxLWhfTUZHVVJJTS1VWDJTTzJocGRyT2VFVEkwUW96d3gyRFc1TWNJU1VDRWg4NnBEQnVfODdMel9ZQkxoTUhNWTgwVnZfNkZNaEh0NnPSAWdBVV95cUxPVmZtbnIzTlVSWElucExWQzJicS1oX01GR1VSSU0tVVgyU08yaHBkck9lRVRJMFFvend4MkRXNU1jSVNVQ0VoODZwREJ1Xzg3THpfWUJMaE1ITVk4MFZ2XzZGTWhIdDZz?oc=5",
       "source": "大紀元",
       "published": "2026-11-12T21:51+00:00",
       "category": "world"
-    },
-    {
-      "title": "全球市场突发大震荡！黄仁勋辞职引爆抛售，英伟达暴跌逾10%、比特币跌破7.2万美元，黄金狂泻超135美元、华尔街上演惊险反转",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YQmNJWXNyempMODZiYlkxRVZqbndRYW5aVUlORG1jNTNWTS10akRidXVUR1lVNXhVRUR1NGFxSHowSjFkSjhtdGhjaEJxRTh2dlMzZlZDTGwxcklwY21UR3o0M1J3WE5IaXYwTHY2TVljQkI5UVV0WQ?oc=5",
-      "source": "FX168财经",
-      "published": "2026-11-12T16:33+00:00",
-      "category": "finance"
     },
     {
       "title": "特朗普突然宣布：不再需要与伊朗达成协议！万斯紧急转向国内，霍尔木兹海峡局势再生变数",
@@ -1766,25 +1780,11 @@
       "category": "world"
     },
     {
-      "title": "面对面解读楼市新政，成都这场活动帮房企解难题",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTWjRjLUhmVGRRUTltZzlLZ2V3cTI0b3czaWNIWVcyT2xSNHV5TnlHWTJtMGRybVVrcVM3eDFVcExHY2pGZkRIZw?oc=5",
-      "source": "凤凰网",
-      "published": "2026-11-12T14:49+00:00",
-      "category": "chengdu"
-    },
-    {
       "title": "特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口 港美股资讯",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10dnZHUzdrc2Y0U1hMVVF6OGlkVS1MUDNROEFVc3RIQzhfZDdaUmhoemxwU3JIdnZKUEIycmxNbW4zN01kMWdwSXFWREFFNFVicDNUazk0b0dDanJZaUEta1ZR?oc=5",
       "source": "华盛通",
       "published": "2026-11-12T14:23+00:00",
       "category": "world"
-    },
-    {
-      "title": "8大世界景区依江排布，岷江流域如何串珠成链？",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhOTFzcG0wcDBNMUVSZjBUY0Q4NFlVbFlKUGYybnA4bURYanBTRmRQcFhFU0M5NjVTV0g4d0I4eGpmNm9uNU5oY1JCaUwxcWRZUGh0R3FvenVIYnB6LWdCdDJkdw?oc=5",
-      "source": "四川新闻",
-      "published": "2026-11-12T14:18+00:00",
-      "category": "chengdu"
     },
     {
       "title": "曼谷专栏 - 特朗普访亚太 双峰会仍聚焦中美博弈",
@@ -1795,12 +1795,12 @@
     }
   ],
   "gold": {
-    "price_usd_oz": 3882.600098,
+    "price_usd_oz": 3897.199951,
     "symbol": "XAU",
-    "updated_at": "2026-11-12T20:32:11Z",
+    "updated_at": "2026-11-13T08:24:53Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-12T20:32:41Z",
+  "gold_updated_at": "2026-11-13T08:25:09Z",
   "earthquakes": [
     {
       "magnitude": 4.9,
@@ -1811,9 +1811,9 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-13T01:27:07Z",
-  "last_attempt_at": "2026-11-13T01:27:07Z",
+  "earthquakes_updated_at": "2026-11-13T08:25:08Z",
+  "last_attempt_at": "2026-11-13T08:25:09Z",
   "errors": [
-    "gold: <urlopen error [Errno -2] Name or service not known>"
+    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
   ]
 }
