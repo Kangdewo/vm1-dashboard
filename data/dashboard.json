@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T08:25:09Z",
+  "updated_at": "2026-11-13T16:36:33Z",
   "weather_updated_at": "2026-11-13T01:27:05Z",
-  "news_updated_at": "2026-11-13T08:25:08Z",
+  "news_updated_at": "2026-11-13T16:36:33Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,6 +1724,48 @@
   },
   "news": [
     {
+      "title": "黄金涨幅收窄：美国PPI数据喜忧参半，难以缓解市场对美联储持续收紧政策的担忧_外汇动态报道_汇通财经www.fx678.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRzdiZWFNZzA5dkcyb1FKdm1OWlpiYXRRQVItX1RWOU1Hc0liVDR2aFd2XzEwZE4tSnhkNVNVa1JZM2pvcm8zQ09VcFlOYW9JYnZmY3AxQQ?oc=5",
+      "source": "汇金网",
+      "published": "2026-11-13T16:19+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "“一江向海是通途”四川乐山锚定“全省流域经济发展先行区”目标，规划2028年通江达海",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTRrSWFEc3VzbW5PeFE1OF96WWpZSTRCa2RwOUlPeWwxMVY1QVVBNlp3UjFaS0RYWkJCV09XMlROYWZveUJYTS1XWXRaaVFpbUk2dTZoUjk3QUhvWkludnowaFhmUHd4STJSWnZOVDJ4OS1wSXFTM3pLQnNpSHV0Nkx0U0swbHQ0T20tYg?oc=5",
+      "source": "Sohu",
+      "published": "2026-11-13T13:37+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "12项主要指标、7大重点任务，成都发布首部市级青年发展专项规划",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oTVprT25KYWdNYXFucmN4N0NFdVFfSm9TOHA5NjY2MERZOXdlaGNIWGRaV3UtUDRKbFJ3ZzF5ZjBCZUNQWnJpcjdFZTVoQQ?oc=5",
+      "source": "川观新闻",
+      "published": "2026-11-13T13:08+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "2年期美债收益率单周暴涨30基点：美联储鹰派回归，外汇黄金原油机会在哪里？_期市动态",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EZ0ZlSjQ4N1I2b1FZRUo0aGF6b3lrNHFBTlNaLWhOVVkxdkl2Q2hzWnZ3UnV1bzRPR2FJS2dFWHhpZ3lIc0xOR2pvb1dTaGlqZmFUZVRwcGtycDNMN3g2R05nZFdKR0hycnZzUzRR?oc=5",
+      "source": "中金在线",
+      "published": "2026-11-13T13:02+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "把大海“搬”到成都需要几步？三问“成都港”",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRk5KVmhHWUNHV3I1NUhnZHBXZXFjU1Y1OFotWnZjbEpmWFdDSFlUM2hULURIYkRZajhCdTRuTTlPSTV5VXNRTUZiNmowLWtMM0J6N3pTOUlNcGV4QWVJY0M0M1lTWGhQLWt0cnlaVHhfSm1lN05LYnpsZUNFaVQ0eGY2MjNCUTFU?oc=5",
+      "source": "Sohu",
+      "published": "2026-11-13T06:57+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "特朗普突然宣布：不再需要与伊朗达成协议！万斯紧急转向国内，霍尔木兹海峡局势再生变数",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSllrWlNtcVV1VDYtWmhjb0tLZ09zNklxdjk0NjV3bnZZQzJCT3BkYkxfZ3V1U3NWLXNFSVZ6YzNtZUgzWjY2M1VyOTd3OTViMHNtX2l0MmxfaVJCQ2RTQmhCTnZjaHo4eGJoY1ZHVlpNall2TkpuVkVvOXd0WE1Bb1BhVkJHWkxB?oc=5",
+      "source": "Sohu",
+      "published": "2026-11-13T05:47+00:00",
+      "category": "world"
+    },
+    {
       "title": "金银市场惨遭“血洗”！英伟达巨震引发连锁抛售 金价狂泻超135美元创年内新低、白银跌破50美元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanp2bk9JeTM5MUlEalU1RU9hZ2taWnpnVUViRDhuTFVMdElNX1V5eFFhczhrNWN4QXlHbWZTbFhraVN2amVZSkpFMmNwZGJhd3NXZXQwX2YwVlA4R0xiTFI5TXB4d2pnd0UzV3pveEpFbDhHZUNIdThqUi1wSkk1cEtvd0pXZVlj?oc=5",
       "source": "Sohu",
@@ -1731,76 +1773,20 @@
       "category": "finance"
     },
     {
-      "title": "成都锦江经开区书写超大城市中心城区未来产业“进化论”",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DQlRZQVZQajBwVTJhQjBGalZZZGFaZjlMTzRjdDFFUWZHNm0tcnRHZmhVeUdaWmVwcmZ3UXM0U2RKclR0YW5qTVRJdi13S1RRNURNUFRnM2JYTU95U3c?oc=5",
-      "source": "京报网",
-      "published": "2026-11-13T05:21+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "黄金交易提醒：特朗普一句“不需要协议”引爆油价，金价暴跌创一年新低",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OR25PVVV6ZzZmN0wzQzhjanAxY3hBNTJ3bmdqeGJ3RzdDRVEwV1hUNWs5X1FINmNXeklJZy1vSW41Si1CcURzTVBWelZYNDRpNk9hMWVkWWlTSTA?oc=5",
-      "source": "汇通网",
-      "published": "2026-11-12T23:50+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "11月13日财经早餐：英伟达换帅引AI忧虑升温，特朗普表态浇灭伊朗协议希望，金价创一年新低，油价跳涨3%",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTDMyNlNDQWtWS1lad19GcHE4Sl9qOWktZnJtRGlsT05BS1ozVUEtel9nak1XbC1yV1JpVUpHeXNzOHljSnF1WlNFNzNPc3hPWVd5eWd3dUxwZUU?oc=5",
-      "source": "汇通网",
-      "published": "2026-11-12T23:30+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "为高质量共建“一带一路”汇聚更多共识",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3RhOFR3VmtMT1RDX19ySkFmd1ZUMHpTa3NlXzNnNTBNckZ4NVJQczl5N29WTUYxMnhwVGRmcjh0a2wtcjVpQTBhX09tT3FqMjdVWHkyVU9FMGd5UzZma2dRemtNTENBMDFPWTB1MHE4d3BwcDQxUl9jaTFYTGhjV3dmbk9jNVM3ZmhpVEFBbFM3LTBOVlpsdA?oc=5",
-      "source": "新浪财经_金融信息服务商",
-      "published": "2026-11-12T23:13+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "三问“成都港”",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBadnNqUWFmYmxJd19mb3Fsbm4zRVprOVByRWlSNHBnNktjdHZrcFc1Nm55R2FWS1dhQW5zdDdDU1R2akEtRHBLQmV6MV83QUI3RE52YlhaSHo2aGFPOUxjY2FXdVQ3RkRWVGpHRmlJV1EycUFYY1FQNw?oc=5",
-      "source": "新浪财经_金融信息服务商",
-      "published": "2026-11-12T22:23+00:00",
-      "category": "chengdu"
-    },
-    {
       "title": "彭劍：美伊衝突降溫 結束戰爭的窗口已打開",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WZm1ucjNOVVJYSW5wTFZDMmJxLWhfTUZHVVJJTS1VWDJTTzJocGRyT2VFVEkwUW96d3gyRFc1TWNJU1VDRWg4NnBEQnVfODdMel9ZQkxoTUhNWTgwVnZfNkZNaEh0NnPSAWdBVV95cUxPVmZtbnIzTlVSWElucExWQzJicS1oX01GR1VSSU0tVVgyU08yaHBkck9lRVRJMFFvend4MkRXNU1jSVNVQ0VoODZwREJ1Xzg3THpfWUJMaE1ITVk4MFZ2XzZGTWhIdDZz?oc=5",
       "source": "大紀元",
       "published": "2026-11-12T21:51+00:00",
       "category": "world"
-    },
-    {
-      "title": "特朗普突然宣布：不再需要与伊朗达成协议！万斯紧急转向国内，霍尔木兹海峡局势再生变数",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43MExCbkFnVTR6X1JrejJ4MTR1SXI4UzhjcndhdkprSFJIdTZWMGhvcUJyMkhwWVdyQ3NxaGhYbjhBX1hIV0U4X0k3M01FTHhSUDRUVUxtUlAzUWJPR1FWNEFQbVdrNXg0ZGRNNw?oc=5",
-      "source": "FX168财经",
-      "published": "2026-11-12T16:16+00:00",
-      "category": "world"
-    },
-    {
-      "title": "特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口 港美股资讯",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10dnZHUzdrc2Y0U1hMVVF6OGlkVS1MUDNROEFVc3RIQzhfZDdaUmhoemxwU3JIdnZKUEIycmxNbW4zN01kMWdwSXFWREFFNFVicDNUazk0b0dDanJZaUEta1ZR?oc=5",
-      "source": "华盛通",
-      "published": "2026-11-12T14:23+00:00",
-      "category": "world"
-    },
-    {
-      "title": "曼谷专栏 - 特朗普访亚太 双峰会仍聚焦中美博弈",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNM0VveDh3T0RfMnJpUHM1MVRHREtROWtCc2Z3V01fNXVjQVJUelBrRVBsWXlmampNWjlpdHNCQjdDak9mN19aaGRIaW1oeXhzRzdkelVKNXdUUWFVeklnYTVCemYxbl93SXdKcmlOQ0NRMXk1NGRXUWdFTDNBYmR4SjhmTEhnbFpra1VnSXVRR1ZZalJaQXYtZFFEZlZ3RmI1QzBTUzA1Nlg4bm1OOHBidjlHNDRla3U5MTlNamhzeENsQ3ZTb1RURlZGRTV2bk82enBrMXd5alctdXlYdGh4MEp2dVBYZ1R0Z2dzSnR3NzVkbmh4Ukk2MjViR0RmMHZXY1dkYkpScmlaaXlyWER1NTVyRnEwcEVRVzM0MkNCVG5CZU5maHRyTmkxSHRnVkRJYlR0M2dqLVp1ZUFhZTI4OS1tdGc5Uk1fOFdqMENjeTNmc1RqWVN4aWJYZHdIdHRCX0NqXzl2bDUzdw?oc=5",
-      "source": "RFI",
-      "published": "2026-11-12T12:47+00:00",
-      "category": "world"
     }
   ],
   "gold": {
-    "price_usd_oz": 3897.199951,
+    "price_usd_oz": 3885.199951,
     "symbol": "XAU",
-    "updated_at": "2026-11-13T08:24:53Z",
+    "updated_at": "2026-11-13T16:36:25Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-13T08:25:09Z",
+  "gold_updated_at": "2026-11-13T16:36:33Z",
   "earthquakes": [
     {
       "magnitude": 4.9,
@@ -1811,8 +1797,8 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-13T08:25:08Z",
-  "last_attempt_at": "2026-11-13T08:25:09Z",
+  "earthquakes_updated_at": "2026-11-13T16:36:33Z",
+  "last_attempt_at": "2026-11-13T16:36:33Z",
   "errors": [
     "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
   ]
