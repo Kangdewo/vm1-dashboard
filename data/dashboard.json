@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-14T02:20:01Z",
+  "updated_at": "2026-11-14T09:05:58Z",
   "weather_updated_at": "2026-11-13T22:08:11Z",
-  "news_updated_at": "2026-11-14T02:20:01Z",
+  "news_updated_at": "2026-11-14T09:05:58Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,32 +1724,53 @@
   },
   "news": [
     {
+      "title": "傅聪: 对中东海湾局势应坚定和平信念",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVJaQmtaR0JiQzA5RWdKVDliY3VfSENJUjRZYjNQU05qdHRfUlNERlljZ0FyaktfUGR2SzJGelZHTnBJdjFOTTlDOEpMRjM4dVpyNzhwWnc3d0JOWkNMcDdFaENsdE1FakFtM1dRQnVJT0NBbXc2U25hZW5GMVJzc3RIaw?oc=5",
+      "source": "TDM",
+      "published": "2026-11-14T06:49+00:00",
+      "category": "world"
+    },
+    {
+      "title": "中方：支持通过平等对话协商解决航道争端 反对将关键航道政治化",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1VDWFNGaDJhYWFyOE55ZzFRTlNGUm5TdnlESDdoaThBcGJDVE9YeXlqWUVlVVpjMGVDRnVzRGVncDlYbjBJOUdmUnhKQTJLbGRKazY3M3BpNGg5VTJ3aFlaREhyVWdxS29oeURHQjBkVzlUN2ZPZl9makRDeFVOaDRlTGtLTnRTRGI3RThpY2VtTVNoZVlpSXZKRmJTMlE2dUpz?oc=5",
+      "source": "香港電台",
+      "published": "2026-11-14T06:14+00:00",
+      "category": "world"
+    },
+    {
+      "title": "黄金多头迎来重磅利好？知名机构看涨至4800美元，当前回调或暗藏投资机会",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mRktKYXNfNVJZOGVreG5YUmRkSUJYUFJ1OFpubDNyVEdhcWRpNkpEek9rMFlIY0VFamt2cUl6aVlLOTIyZWFvUGdfeGV6M1ZhbE5RZWpKdWctakhfa3JJcHloaU9sQmlET09zRQ?oc=5",
+      "source": "FX168",
+      "published": "2026-11-14T06:09+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "中国代表：对中东海湾局势国际社会应坚定和平信念",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OUjNRbE51QmNnbmM0UURoWC1KQVR2NXNwZ00xQXk4ZUFHck1OUUNzSzdPZU41QmxiczhzVmk1Y0FsaE1NVEdfYXNZbE1YTFlTc3ctaGs0RzE2NW1Sd3dNV0syOFN3SVdPd045UjBzYlctME92N0liZE9iNEVKMUU?oc=5",
+      "source": "新华网",
+      "published": "2026-11-14T05:11+00:00",
+      "category": "world"
+    },
+    {
+      "title": "库什纳进入美俄谈判核心 白宫私人关系网络如何影响美国外交",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zNUVwYUJMcEZSX2w2T0ZGNTMxQWpBU1hfNUNXa3VGd1JsZ1MzV2I0SVRnYkR1LV9NOElOVlREVU93YmRPdzl1V1lB?oc=5",
+      "source": "MNewsTV",
+      "published": "2026-11-14T04:53+00:00",
+      "category": "world"
+    },
+    {
+      "title": "金饰消费持续升温，为何白银回收价降至个位数？",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1a29lcVNjVWZqNThvS1BOM3NMYkpkWDFtOVNTZDU5Y2t0MGR6R2NoUl9kMnRFYlkzSmhzS2VGNG9kSFYzR045YVVsQ2hDVGhr?oc=5",
+      "source": "36Kr",
+      "published": "2026-11-14T04:37+00:00",
+      "category": "finance"
+    },
+    {
       "title": "高盛突然大砍黄金目标价！今年下调500美元、明年再砍600美元，黄金牛市生变？",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kWGtUT2VEQXhBWWJBT01xZG5RQlRxR1g3RWluQWNIanZRWV9MNGNiQUJxVU1wdklDVW81TFJNa0xWVHpvZzl3ZDVpdnU3RWZsNjZTbVlPSWFZY3BoLWRxWFJyVnl2SU5LUDNkMw?oc=5",
       "source": "FX168",
       "published": "2026-11-14T00:12+00:00",
       "category": "finance"
-    },
-    {
-      "title": "WisdomTree的Nitesh Shah：黄金估值合理，2027年第三季度目标价4800美元 - 新闻和统计",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXNZeWRuTlVCcUlsX0E5WGdKYzhad3F2dzltQzBnVWE1YlJ5TndmVWEtTFplXzNIRS1iUVJmbWstTEpjOFJlOVBnNGZRdkRkWGNRczQ2QzRlLV9DU3RQd1N6aFNrcjJ1MGRsa0JnaDZhU3RiVE1pS0ZaREtTejFwSWVYcWNfbFAzQ1FTTHhUdFJqX002ZEI4elM3a2dzMHhlRFpPX0xlX3J5bm9HY3J0U01PYw?oc=5",
-      "source": "IndexBox",
-      "published": "2026-11-13T22:53+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "华尔街突遭多重暴击！纳指重挫1.5%、黄金一周暴跌200美元、比特币跌破7万美元，美元逼近19个月高点",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSUmlCWmZhUktHWTNYLTRoT2U0ZGNKa05zREtVcV9fSk4tQXpzMjJpNWluSkV2NkxpVHJFSHFhSUFBU2xheE9vNmlHN0NhM2t2N3Z1NmFXcVVXOEhXc2pjRy1fa0NBX3pyX2FZX3lVZXYtUGxEX3EzRg?oc=5",
-      "source": "FX168",
-      "published": "2026-11-13T17:15+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "马来亚大学专家：越南是地区秩序变动中的平衡因素",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWX283cTZNOGpnb2FyT2xwRlJha2lBUF9yTi03QVRDcV9TMGxMRjRLY3hxVEluQmpVX29oaFFTOTA3TGNXUDdjU2h0SHlteWIyZHRwMVNBeENDdnZf?oc=5",
-      "source": "Vietnam+ (VietnamPlus)",
-      "published": "2026-11-13T14:29+00:00",
-      "category": "world"
     },
     {
       "title": "“一江向海是通途”四川乐山锚定“全省流域经济发展先行区”目标，规划2028年通江达海",
@@ -1764,20 +1785,6 @@
       "source": "川观新闻",
       "published": "2026-11-13T13:08+00:00",
       "category": "chengdu"
-    },
-    {
-      "title": "把大海“搬”到成都需要几步？三问“成都港”",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRk5KVmhHWUNHV3I1NUhnZHBXZXFjU1Y1OFotWnZjbEpmWFdDSFlUM2hULURIYkRZajhCdTRuTTlPSTV5VXNRTUZiNmowLWtMM0J6N3pTOUlNcGV4QWVJY0M0M1lTWGhQLWt0cnlaVHhfSm1lN05LYnpsZUNFaVQ0eGY2MjNCUTFU?oc=5",
-      "source": "手机搜狐网",
-      "published": "2026-11-13T06:57+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "特朗普突然宣布：不再需要与伊朗达成协议！万斯紧急转向国内，霍尔木兹海峡局势再生变数",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSllrWlNtcVV1VDYtWmhjb0tLZ09zNklxdjk0NjV3bnZZQzJCT3BkYkxfZ3V1U3NWLXNFSVZ6YzNtZUgzWjY2M1VyOTd3OTViMHNtX2l0MmxfaVJCQ2RTQmhCTnZjaHo4eGJoY1ZHVlpNall2TkpuVkVvOXd0WE1Bb1BhVkJHWkxB?oc=5",
-      "source": "手机搜狐网",
-      "published": "2026-11-13T05:47+00:00",
-      "category": "world"
     }
   ],
   "gold": {
@@ -1797,9 +1804,10 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-14T02:20:01Z",
-  "last_attempt_at": "2026-11-14T02:20:01Z",
+  "earthquakes_updated_at": "2026-11-14T09:05:58Z",
+  "last_attempt_at": "2026-11-14T09:05:58Z",
   "errors": [
-    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
+    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "gold: <urlopen error [Errno -2] Name or service not known>"
   ]
 }
