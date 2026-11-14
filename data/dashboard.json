@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T22:08:12Z",
+  "updated_at": "2026-11-14T02:20:01Z",
   "weather_updated_at": "2026-11-13T22:08:11Z",
-  "news_updated_at": "2026-11-13T22:08:12Z",
+  "news_updated_at": "2026-11-14T02:20:01Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,9 +1724,23 @@
   },
   "news": [
     {
+      "title": "高盛突然大砍黄金目标价！今年下调500美元、明年再砍600美元，黄金牛市生变？",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kWGtUT2VEQXhBWWJBT01xZG5RQlRxR1g3RWluQWNIanZRWV9MNGNiQUJxVU1wdklDVW81TFJNa0xWVHpvZzl3ZDVpdnU3RWZsNjZTbVlPSWFZY3BoLWRxWFJyVnl2SU5LUDNkMw?oc=5",
+      "source": "FX168",
+      "published": "2026-11-14T00:12+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "WisdomTree的Nitesh Shah：黄金估值合理，2027年第三季度目标价4800美元 - 新闻和统计",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXNZeWRuTlVCcUlsX0E5WGdKYzhad3F2dzltQzBnVWE1YlJ5TndmVWEtTFplXzNIRS1iUVJmbWstTEpjOFJlOVBnNGZRdkRkWGNRczQ2QzRlLV9DU3RQd1N6aFNrcjJ1MGRsa0JnaDZhU3RiVE1pS0ZaREtTejFwSWVYcWNfbFAzQ1FTTHhUdFJqX002ZEI4elM3a2dzMHhlRFpPX0xlX3J5bm9HY3J0U01PYw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-13T22:53+00:00",
+      "category": "finance"
+    },
+    {
       "title": "华尔街突遭多重暴击！纳指重挫1.5%、黄金一周暴跌200美元、比特币跌破7万美元，美元逼近19个月高点",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSUmlCWmZhUktHWTNYLTRoT2U0ZGNKa05zREtVcV9fSk4tQXpzMjJpNWluSkV2NkxpVHJFSHFhSUFBU2xheE9vNmlHN0NhM2t2N3Z1NmFXcVVXOEhXc2pjRy1fa0NBX3pyX2FZX3lVZXYtUGxEX3EzRg?oc=5",
-      "source": "FX168财经",
+      "source": "FX168",
       "published": "2026-11-13T17:15+00:00",
       "category": "finance"
     },
@@ -1740,7 +1754,7 @@
     {
       "title": "“一江向海是通途”四川乐山锚定“全省流域经济发展先行区”目标，规划2028年通江达海",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTRrSWFEc3VzbW5PeFE1OF96WWpZSTRCa2RwOUlPeWwxMVY1QVVBNlp3UjFaS0RYWkJCV09XMlROYWZveUJYTS1XWXRaaVFpbUk2dTZoUjk3QUhvWkludnowaFhmUHd4STJSWnZOVDJ4OS1wSXFTM3pLQnNpSHV0Nkx0U0swbHQ0T20tYg?oc=5",
-      "source": "手机搜狐网",
+      "source": "Sohu",
       "published": "2026-11-13T13:37+00:00",
       "category": "chengdu"
     },
@@ -1750,13 +1764,6 @@
       "source": "川观新闻",
       "published": "2026-11-13T13:08+00:00",
       "category": "chengdu"
-    },
-    {
-      "title": "2年期美债收益率单周暴涨30基点：美联储鹰派回归，外汇黄金原油机会在哪里？_期市动态",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EZ0ZlSjQ4N1I2b1FZRUo0aGF6b3lrNHFBTlNaLWhOVVkxdkl2Q2hzWnZ3UnV1bzRPR2FJS2dFWHhpZ3lIc0xOR2pvb1dTaGlqZmFUZVRwcGtycDNMN3g2R05nZFdKR0hycnZzUzRR?oc=5",
-      "source": "中金在线",
-      "published": "2026-11-13T13:02+00:00",
-      "category": "finance"
     },
     {
       "title": "把大海“搬”到成都需要几步？三问“成都港”",
@@ -1771,29 +1778,15 @@
       "source": "手机搜狐网",
       "published": "2026-11-13T05:47+00:00",
       "category": "world"
-    },
-    {
-      "title": "金银市场惨遭“血洗”！英伟达巨震引发连锁抛售 金价狂泻超135美元创年内新低、白银跌破50美元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanp2bk9JeTM5MUlEalU1RU9hZ2taWnpnVUViRDhuTFVMdElNX1V5eFFhczhrNWN4QXlHbWZTbFhraVN2amVZSkpFMmNwZGJhd3NXZXQwX2YwVlA4R0xiTFI5TXB4d2pnd0UzV3pveEpFbDhHZUNIdThqUi1wSkk1cEtvd0pXZVlj?oc=5",
-      "source": "手机搜狐网",
-      "published": "2026-11-13T05:46+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "彭剑：美伊冲突降温 结束战争的窗口已打开 4个信号",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53MW9TVmJEbWRoOHNDeVZBMFJwRDNSLVBqTkdsWUh6bjlqdXRIelI4ZWstTDdyQTZVcVhsa1FmQXlCd0lqSHh4LW9lU29LSmVCNmF2aTBkWnBtd2FtZkE?oc=5",
-      "source": "阿波罗新闻网",
-      "published": "2026-11-13T01:57+00:00",
-      "category": "world"
     }
   ],
   "gold": {
-    "price_usd_oz": 3888.199951,
+    "price_usd_oz": 3887.600098,
     "symbol": "XAU",
-    "updated_at": "2026-11-13T22:07:55Z",
+    "updated_at": "2026-11-14T02:19:40Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-13T22:08:12Z",
+  "gold_updated_at": "2026-11-14T02:20:01Z",
   "earthquakes": [
     {
       "magnitude": 4.9,
@@ -1804,7 +1797,9 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-13T22:08:12Z",
-  "last_attempt_at": "2026-11-13T22:08:12Z",
-  "errors": []
+  "earthquakes_updated_at": "2026-11-14T02:20:01Z",
+  "last_attempt_at": "2026-11-14T02:20:01Z",
+  "errors": [
+    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  ]
 }
