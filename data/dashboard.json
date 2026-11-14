@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14T20:06:10Z",
-  "weather_updated_at": "2026-11-14T20:06:08Z",
-  "news_updated_at": "2026-11-14T20:06:10Z",
+  "updated_at": "2026-11-14T23:51:23Z",
+  "weather_updated_at": "2026-11-14T23:51:16Z",
+  "news_updated_at": "2026-11-14T23:51:18Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
-    "generationtime_ms": 2.993345260620117,
+    "generationtime_ms": 1.2603998184204102,
     "utc_offset_seconds": 28800,
     "timezone": "Asia/Shanghai",
     "timezone_abbreviation": "GMT+8",
@@ -22,15 +22,15 @@
       "wind_gusts_10m": "km/h"
     },
     "current": {
-      "time": "2026-11-15T04:00",
+      "time": "2026-11-15T07:45",
       "interval": 900,
       "temperature_2m": 13.3,
-      "relative_humidity_2m": 93,
-      "apparent_temperature": 13.2,
+      "relative_humidity_2m": 92,
+      "apparent_temperature": 13.3,
       "weather_code": 3,
-      "wind_speed_10m": 5.2,
-      "wind_direction_10m": 20,
-      "wind_gusts_10m": 14.0
+      "wind_speed_10m": 4.4,
+      "wind_direction_10m": 7,
+      "wind_gusts_10m": 11.5
     },
     "hourly_units": {
       "time": "iso8601",
@@ -780,36 +780,36 @@
         18.8,
         18.6,
         18.2,
-        18.1,
-        17.9,
-        17.8,
-        17.9,
-        17.9,
-        17.8,
-        17.6,
+        18.0,
+        17.7,
+        17.4,
         17.3,
-        17.1,
-        16.9,
-        16.7,
-        16.6,
-        16.4,
-        16.1,
-        16.1,
-        16.3,
-        16.6,
+        17.2,
         17.0,
-        17.5,
-        17.9,
-        18.3,
-        18.4,
-        18.3,
-        18.2,
-        17.9,
-        17.5,
+        16.6,
+        16.3,
+        16.0,
+        15.8,
+        15.6,
+        15.5,
+        15.4,
+        15.3,
+        15.4,
+        15.6,
+        16.0,
+        16.5,
         17.3,
-        null,
-        null,
-        null
+        18.2,
+        18.8,
+        18.9,
+        18.7,
+        18.4,
+        18.1,
+        17.7,
+        17.3,
+        16.9,
+        16.5,
+        16.2
       ],
       "weather_code": [
         3,
@@ -1193,9 +1193,9 @@
         3,
         3,
         3,
-        null,
-        null,
-        null
+        3,
+        3,
+        3
       ],
       "precipitation_probability": [
         0,
@@ -1627,8 +1627,8 @@
         18.7,
         18.7,
         19.9,
-        19.1,
-        null
+        19.0,
+        18.9
       ],
       "temperature_2m_min": [
         13.2,
@@ -1646,7 +1646,7 @@
         8.5,
         10.1,
         10.6,
-        null
+        15.3
       ],
       "weather_code": [
         51,
@@ -1664,7 +1664,7 @@
         45,
         45,
         45,
-        null
+        3
       ],
       "precipitation_probability_max": [
         25,
@@ -1699,8 +1699,8 @@
         6.1,
         4.4,
         3.4,
-        5.2,
-        null
+        6.8,
+        7.9
       ],
       "wind_gusts_10m_max": [
         22.3,
@@ -1718,11 +1718,25 @@
         16.9,
         14.0,
         13.3,
-        null
+        10.8
       ]
     }
   },
   "news": [
+    {
+      "title": "给城市留一道“穿堂风”",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5taHlJZ0czaW5BWWk5X1Fxd3QzUWRmQ2ZLdGR3ZWZGeTdfRWdFTzRnTUVUQk56SDV0emRvb0xYMk9kS2xvYTNQTXR5bDlud05GZnJTR01XbldJbXNfWG5QbWM4MVRBcEUzZ1E?oc=5",
+      "source": "四川日报",
+      "published": "2026-11-14T21:40+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "中国代表就中东海湾局势发声：必须坚决遏止战争",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjFieXBQSDdWRzM2TDNPYVpEMUVJMG9HSE9vLTM2ZkNzMEZURS13cEVJcXlNak9TdmFZd2xnWmh3RFByX1BrOW5jcWxZQlEwb1pUVk9uV1RoV2d1U1pZRjREelk1czRncHdTcS1FMXlrdGgzQlIzUWZFQTFYMlB0LWZRdnZ4R2pqYU1aNXhLNTJJeHIw?oc=5",
+      "source": "新浪新闻_手机新浪网",
+      "published": "2026-11-14T21:33+00:00",
+      "category": "world"
+    },
     {
       "title": "亮相COP31边会，四川分享3个应对气候变化“全民行动”实践",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pcDhsX2Q3MmpJM181YnhlbFZwdnlGMDRrbERWZkROaV82c1dTOHMzSTNWTDlKZGk3Q1JFbUNSSnhWSGxOQXRJR0pVbm5JVFl4amc?oc=5",
@@ -1731,24 +1745,17 @@
       "category": "chengdu"
     },
     {
+      "title": "中信建投：黄金2027年投资展望",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxeW5fcjlnOXU1OTl5SnBOU0FZVXV5UGdQOWxGNXFTUkhHdUI4ZWs3U2l3N3dlVnRZRjJoWG9KUG5rdkJ5b3E3RFN1Rmt0QnJCX3djTlp3?oc=5",
+      "source": "QQ News",
+      "published": "2026-11-14T14:26+00:00",
+      "category": "finance"
+    },
+    {
       "title": "“低空物联 赋能高原”2026年高原物联网与低空场景应用研讨会在我校举行",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81X3E2YjFuaEFkQ3pDaVRDM1RxX0thM0VTcnhTNm1VUEdCU3JyeDFWYUNmQ3lHcVllbmhzV1RnelA0aGhvODNscmRxRGVmaWlDSGhrV1o0QQ?oc=5",
       "source": "西南民族大学",
       "published": "2026-11-14T14:00+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "中国代表就中东海湾局势发声：必须坚决遏止战争",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sRllkb1FyaFQ5dmNSVTI2alBVcEFfaUFBdHVyVHpDYVdMUkVWY0w3eVZTUGVpeEc4d0kwSWl5Rm1YOUZYV3BESlNzRmNUeWNtd0FIdWNmbW55Q3JTZ3MwWndKeWs?oc=5",
-      "source": "新京报",
-      "published": "2026-11-14T13:49+00:00",
-      "category": "world"
-    },
-    {
-      "title": "南方财经全媒体集团",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SdXNJc2xwak16Slpmb19VVndFYXJKQWQ1OHdPTk1lZjFTNzRwUTl4UTM1UDRpcF9NbjV6eGdpREE4VWRPcE1fYjNlV19jVDR0dm45UENrb1FuOTQxR2hCQmJtQ0dSdVk?oc=5",
-      "source": "南方财经",
-      "published": "2026-11-14T12:45+00:00",
       "category": "chengdu"
     },
     {
@@ -1785,22 +1792,15 @@
       "source": "36Kr",
       "published": "2026-11-14T04:37+00:00",
       "category": "finance"
-    },
-    {
-      "title": "华尔街突遭多重暴击",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tMmFzUUhCb0kyX09PR3FQWnRjdFcyb3ZiSXRIdjI2SktTRnZHMklmTnpKTC1mNGVPRXJxTmFwTUFXQkRlYUJkb3BJQkx4MWNfS2c?oc=5",
-      "source": "万维读者网",
-      "published": "2026-11-13T23:43+00:00",
-      "category": "finance"
     }
   ],
   "gold": {
     "price_usd_oz": 3887.600098,
     "symbol": "XAU",
-    "updated_at": "2026-11-14T20:05:55Z",
+    "updated_at": "2026-11-14T23:50:55Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-14T20:06:10Z",
+  "gold_updated_at": "2026-11-14T23:51:23Z",
   "earthquakes": [
     {
       "magnitude": 4.9,
@@ -1811,7 +1811,7 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-14T20:06:10Z",
-  "last_attempt_at": "2026-11-14T20:06:10Z",
+  "earthquakes_updated_at": "2026-11-14T23:51:18Z",
+  "last_attempt_at": "2026-11-14T23:51:23Z",
   "errors": []
 }
