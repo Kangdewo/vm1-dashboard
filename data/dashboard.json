@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T11:12:34Z",
+  "updated_at": "2026-11-17T19:52:09Z",
   "weather_updated_at": "2026-11-17T11:12:32Z",
-  "news_updated_at": "2026-11-17T11:12:33Z",
+  "news_updated_at": "2026-11-17T19:52:09Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,11 +1724,67 @@
   },
   "news": [
     {
-      "title": "从新产品到新场景，首发经济不止于开店",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHhzRkdBN0RUVVprejQwMEVNWjc0cFFYeTh1N3lwWXlnN0ZRTkduOUF4UGtYbGlJQnplSzZlMnVQMjMyS0pTWmhRbkZjSVVSdEJEbEZMeUM0aU1idlEyNlZfNmtzbEhsc1R6YkxoY3FJZmpRZGVjeWNQdmx1YVdUNktZbEVaSlZXV0s2QlJvTQ?oc=5",
-      "source": "21财经",
-      "published": "2026-11-17T10:24+00:00",
+      "title": "美国突发重大异常！国家安全局机密网络故障、黄仁勋突然寻求回归，道指狂泻逾900点，黄金、比特币齐承压",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnpjMjBiU21fVHZGZWhPa1JzLU5BS2dGYXcyclZPZUsxNWJCbnlwdXJ3TVRraUFvLUxaVXFDQXlVbGgtNnRmSEE5QUE4VGpIN3dFZnhQU1c4c0JSX09Edy02WkNhZVdUSEpscUVvbzNMWVktLVpVQTF6ZnVvQ3R2V05YVzQ?oc=5",
+      "source": "FX168",
+      "published": "2026-11-17T18:29+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "施威全：特朗普要解国际难题 都需要中国",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUW9sNVhfSDFTSHRQOXI0MmdqTDAxVjF5enV2RERVWDNtLTdaTkVqcWtBazhqeEF1cmdfV0s0akV0Z0thZDh0NzE1SkxFOFA5Y0pBRGhiUmVMMDZ1c2d0dnhqQk82Tm81TlBwZVFlQ3BPVk42QVR3Nnk0STdLb3JKQVJBNk1oVXM2WHc?oc=5",
+      "source": "中国评论",
+      "published": "2026-11-17T16:35+00:00",
+      "category": "world"
+    },
+    {
+      "title": "四川出台现代物流“十五五”规划 成都极核引领 三网融合降本增效",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXhjRjR1bldvYVNyNXU4RGU5RVNlSWJ6R0w5cDEzMGVMY3FlWjNETmVpRmFKZkdrV0tUOGx1MC1ZUkVHbGlvdDFDeDRlaUpFRTFUemlBSXVnUzRZLWpiNWhQenV6Q1pSNkZjZkM4anJzWUtJcnFQM0hhal9BZU9JaGdWSjlNNGd0?oc=5",
+      "source": "Sohu",
+      "published": "2026-11-17T16:12+00:00",
       "category": "chengdu"
+    },
+    {
+      "title": "美元：利率预期和能源价格走势提供支撑——三菱日联金融集团",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGgzWTNKQl8tcnphV3E0N1YxM1p3ekhGbWJ2S3BwX182WGRFemI0MWo1MWZKWHNBVXluVE8wMFloME5QbjNlQWtwdTlrTHM2LWV1YkRyM2FTT0xSMUZPTXQtRFlDcDVnTXZkd3ZUUDNjWmt4ZWVPVGQxak9PZ1gtM1V5SkJrMjkxNDd5TVNEcl8xOHlJZi1WMktXLVdPaS1vYjZfRkpzdm1oSXZHNzNmUlBYTW5vM2VSUXZuUUhfMzNIUkpaWUs0YWZXVDlOZw?oc=5",
+      "source": "www.tmgm.com",
+      "published": "2026-11-17T14:23+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "美国海上封锁步步紧逼，伊朗强硬派呼吁主动升级反制打破僵局-市场参考",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90S1hCSjMtaXpLYjJfQ1RXY0JvMUhSMS1kN2Zack92dGdEc1BxV2RTb3dTT1EzbFAtVHZER2g1NExZRGZkbHpyUnE2TjlCcXM?oc=5",
+      "source": "金十数据",
+      "published": "2026-11-17T14:09+00:00",
+      "category": "world"
+    },
+    {
+      "title": "APEC｜中美俄会晤是雅尔塔2.0？时政KOL王骁深圳独家解读：想俗了",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNZTJoNEt0RUdYWGZKQ2xaSlZYd19IbG55YnBGYXZmZ3BXTF9udEdPUWljc2gzcUxFbERwd2ZnNURFeEg5NDY1R1NHMzIxNEFXWHhrd29nWDJoYVpZcXF0ZjlZMWoteHBUeFJfT0g2dUhscUh5SnZsZEJ5V2tPTHlkOGdFQVVzSFhnaDhrR0JsQzJkeEYxYnh0eGszMjd3NlJZakNqWHgtYWkwTUJTTlFNckZ4eUdDS2dXeWdiUEY3T0htSWplR2hadlRzZXNPTDNzeVVQU2JWYjBBTnhqcGdfbjU1OUlJTlRzY3hhdnpSSUdxcVF0SEZHMmlHV29oNDRoOVRLTE9vLVNUcDVSTmZJN2pjOV84cUNELUxuRTdyWFB1VzVocVI2SkhXVmF4d0dkUGZOU1ZJTnljYjR5UENjeXBUVzFPWGw1aVRCZHRDcDhOaEFLV2Y1YWlSUnhMVXdsbThwRnlMN2tQd2dpUng5MngzeWFoa1lVQTJWUHNKX0lNYkQtbUJ0YXZYSUFHSXFNd1RV?oc=5",
+      "source": "香港01",
+      "published": "2026-11-17T13:34+00:00",
+      "category": "world"
+    },
+    {
+      "title": "四川增材制造产业向全链条集群迈进",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWFEN3FkT3lHUllocFZ4ZUhuRkJsTzlpSXRYUlVVcDZhYW8yR3Y1dWtGRDVrUFFlSkRscFloTnc0cU9wc2JPQWNKQXpsNU9yVk5yY1pHMVZvYWQzLWQ5VjB3RGN1enN3NS1LY21rc0k5M0l5ajhUMEpfM0YxZGdua0dIcS1uQmJM?oc=5",
+      "source": "Sohu",
+      "published": "2026-11-17T12:02+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "一周时间 成都市三家工业企业先后上市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZbllZVmxyUk1leC03dXJHdHdpYjZMb1I1anJPRzBINEw0eVJWMGU3cHF2X2RuN0haeFdXbUF5cGwweEdiVkpWOWNESEladjUyTTQzazlwdld3Z1hwT09GdW9NQzZzQQ?oc=5",
+      "source": "每日经济新闻",
+      "published": "2026-11-17T11:35+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "资产配置周报丨美联储会议纪要本周公布；全球大类资产波动或加剧",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXV3QmdtMTBlbVRqNl81M1lJZzA3YnVJbWEyTWFPRFI2UUtSYy1wVG5UZEhiVzNUXzB5U2J1Q0x1NXM1WnNERkduS1VYbjAtYkNPTEEyRE5NdUlZWmFySmdIZ1BLTUlJMEtNaDI3TmYxZUVWMlN0aUpwdUN4YXNleXB3MGZzT1NJNHZ2QUprWQ?oc=5",
+      "source": "21财经",
+      "published": "2026-11-17T10:45+00:00",
+      "category": "finance"
     },
     {
       "title": "外交事务 – 中国的漫长暮色：人口萎缩、政治瘫痪与大国的命运",
@@ -1736,64 +1792,15 @@
       "source": "禁闻网",
       "published": "2026-11-17T09:58+00:00",
       "category": "world"
-    },
-    {
-      "title": "第九届“长白国关学者论坛”在吉林大学举办",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Rl9sWEoyQ042Q2ROMFozNHlRaUV4Y3kwRDlaZjUyMWdNWFFaWEc4MGgtS1Rob2JxU0JiYXFxZHNObnNKWG5ndVBzMl95UTIzajFyNTA2T21aUWZEb25VRy11TQ?oc=5",
-      "source": "光明网理论",
-      "published": "2026-11-17T09:11+00:00",
-      "category": "world"
-    },
-    {
-      "title": "高盛突然泼冷水",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NRHR2Vm5KY1puWHZGaDJYS2dZZl9rMktWQkNyTEMwUkM4RFZ4Uy1MQ2JtZWw0Y3Y3VTA1a0tHR3JoV18zOEVfLTVLcFRDb1pkc3lzZnVBZmxlYzNWYXc?oc=5",
-      "source": "阿波罗新闻网",
-      "published": "2026-11-17T08:06+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "金价跌破3900，摩根士丹利为何看涨至5250美元？",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lSGtBaDM2dnoxNlBGaG1UX3NlcHM4Z3dvczlKdEtOVGVzcE9vdXQxb0o4amVfaHZ2Vmt2M2NDMkpmSFNTSlFPQ0d3TndTYzFLN1pVRFlGVWh3TjM3RFA4WTNZb0FTY1RKQlFMRl9PM0kzQQ?oc=5",
-      "source": "金融界",
-      "published": "2026-11-17T06:29+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "中方：呼吁建立一个没有核武器的中东",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80M3dTU2V1cEdPdHR4eDVDNkZodTlHaHR5X3FDd0MyOUU5U2k1Tzd1UGc0ZVdUbjdYTzZjeUFzZjdRX1RBRHRRWHAtaWdGOVJOMmZlTFVTWmNfOGZOWHZuMWNxTTFHNE9oRGRBMXVqOF82bHM?oc=5",
-      "source": "观察者网",
-      "published": "2026-11-17T05:29+00:00",
-      "category": "world"
-    },
-    {
-      "title": "深圳APEC｜习、特、普京首度同框 中美俄三十年河东三十年河西",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPRkk2NF9DNk1UUGRGYWtUdXRxZno1akw1MzRuY05fdlRwaTBMc19KclhqWHdYZkF6bnVrdi1ZbTREMVhLZWQxZmFHMU9KNUVQV1N5WFNOLV91bno4TnZ2bDVDUXppemlqLVJfNzdaSk81c00zakNWc1R0dUt2Qm0xckJpUmFhZEJ1dE04VTBJOGc4dFNRdGhkU2o1bEhDc3BDYWMyV1JkX2xFMXZFLUdULS1YeHdPTXZqRE1qSlN0SFVzMTd6ZkI5TVVjSHEtTGdNcU01TDFJRi1VOVhBMzN0LXZaTFFjbUZFX2ktQjIzdTNNY2lLRmx1RTFjSnlDMzNaY0JWenVJSF83WXpTMGVOS0MzMzVRMFl0SnJsY2NrQ1VTcG1lbjVSMzlBOVZrcFZQWXEweGV0ZlBsaTl0dVBpU19RUHA1eTF2bHU4Y0gtS0dOa0VjMDN3LU1PbThHV0xKN2dubjRZSHhDZG9HZnJHSE91S293Y3ZJNDl1c1NINVFxYVhGMjR6a2hEZzgxb2NqX0xQOWNWNXA0UXM?oc=5",
-      "source": "香港01",
-      "published": "2026-11-17T05:21+00:00",
-      "category": "world"
-    },
-    {
-      "title": "城市规划实施将有专岗算好“经济账” 北京明确设立责任估价师制度",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GYjJQYVpDZmFkSmlRcjE2d3BUSklYcGQ5NzFsR0VsX2loZTlJdGZSaUZuckxTQVVzSngzamdWSzdBUTlrN0lDamRVeXJYR3RLVko3ME9qeWwwLWpwZFlMc28tcWgtTnNUMVh1QjAtN2cyb1pX?oc=5",
-      "source": "北京市人民政府门户网站",
-      "published": "2026-11-17T00:30+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "黄金交易提醒：美元、美债收益率、加息预期三重压制，金价刷新一年低点，多头苦日子才刚开始？",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zRFNPekEwUmNZNTFlcnVFeXl3Mk1hMENBalppZUZmSVFGVW0wYl80M3lZeVhRN0h2YzA1RklhNkNGTU82REpaVk9mSWhzaV9VcnpCcmV0ZjV4U1k?oc=5",
-      "source": "Fx678",
-      "published": "2026-11-16T23:58+00:00",
-      "category": "finance"
     }
   ],
   "gold": {
-    "price_usd_oz": 3860.949951,
+    "price_usd_oz": 3852.899902,
     "symbol": "XAU",
-    "updated_at": "2026-11-17T11:12:28Z",
+    "updated_at": "2026-11-17T19:51:59Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-17T11:12:34Z",
+  "gold_updated_at": "2026-11-17T19:52:09Z",
   "earthquakes": [
     {
       "magnitude": 4.9,
@@ -1804,7 +1811,9 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-17T11:12:34Z",
-  "last_attempt_at": "2026-11-17T11:12:34Z",
-  "errors": []
+  "earthquakes_updated_at": "2026-11-17T19:52:09Z",
+  "last_attempt_at": "2026-11-17T19:52:09Z",
+  "errors": [
+    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  ]
 }
