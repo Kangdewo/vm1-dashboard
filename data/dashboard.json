@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T22:00:19Z",
+  "updated_at": "2026-11-23T02:33:48Z",
   "weather_updated_at": "2026-11-22T22:00:17Z",
-  "news_updated_at": "2026-11-22T22:00:19Z",
+  "news_updated_at": "2026-11-23T02:33:48Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,11 +1724,39 @@
   },
   "news": [
     {
+      "title": "特朗普急了，要求明年1月前谈成俄乌协议！真正让他急的还是在美国内部",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGxXSjV3LXh6Nlk2T0sxM1RLNFFDVThmTHpxU3VZYnZiNWMwcUpkLTNjaGZQbHhhY0VZNXhKM19pZXBsS3FnMThkRW96Z3NpaFBvY2xlUFVsUFNhcVJzWm1XQ2tMTzl2NjRUanFObmhsYjJBeHcyV2FvdVNaRWY1NURCU3VwYXBObXFKZw?oc=5",
+      "source": "Sohu",
+      "published": "2026-11-23T01:27+00:00",
+      "category": "world"
+    },
+    {
+      "title": "黄金交易提醒：特朗普暗示年内不再攻击伊朗，金价从14个月低位反弹逾1%，本周聚焦PCE数据",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2UXRLNTZLd1BaS0JUTkhpenJMdlY3Xy1NWUFPWS1GVWE2Wm1SMWxFNFd3QXBrVXRTb0dUeUhwb0w2ZVF6Ni1NNF93X1ZCOHZyM3FfYkxGWk5BTnc?oc=5",
+      "source": "汇通财经",
+      "published": "2026-11-22T23:58+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "11月23日财经早餐：地缘风险再起，金价高开触及3580关口，伊朗打击美军雷达，原油多头倾向占优",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUzRJOVhILXRneXpEdFY3bVdodW9GYlp5a3RxbV9hcExTVjd5SDVua3d5eGNjWENPVnpCdmFrVUFmU0hfSzVoS05KOFMyMU5kelNnYjdUUjE1UQ?oc=5",
+      "source": "汇通财经",
+      "published": "2026-11-22T23:18+00:00",
+      "category": "finance"
+    },
+    {
       "title": "马准威：中国促成两场战争降温 国际声望增",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yamhHLUUyMjNfQ1VvTkJ5THN6cGs4VW5yU0dTYlFHNm00NVE0ZG1neHRMTVVqck8zcVZMeVJmcVFqSVpIVnhNRDFZZkp3SDktRUZtVjZWSEtDaU9TUGY3V19aejlGRDA?oc=5",
       "source": "中國評論新聞",
       "published": "2026-11-22T16:16+00:00",
       "category": "world"
+    },
+    {
+      "title": "KII 兑 XAU：将 KiiChain 转换为 黄金（金衡盎司） | 实时 KII 兑 XAU 价格 | MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3RWY4WmkzelhIaC01eXFtRnA1eHhtNVlHOGNBeTZnZG9QT0FpODR2U1I0UF9RSExWb3I4VGdiendQeHhsZ2hoUHFrUkpTVDhacjhIbw?oc=5",
+      "source": "MEXC",
+      "published": "2026-11-22T14:28+00:00",
+      "category": "finance"
     },
     {
       "title": "光储相融 生态共建 链启未来丨2026第九届国际光伏与储能产业大会隆重举行",
@@ -1738,41 +1766,20 @@
       "category": "chengdu"
     },
     {
-      "title": "美国突发重大异常！国家安全局机密网络故障、黄仁勋突然寻求回归，道指狂泻逾900点，黄金、比特币齐承压",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnpjMjBiU21fVHZGZWhPa1JzLU5BS2dGYXcyclZPZUsxNWJCbnlwdXJ3TVRraUFvLUxaVXFDQXlVbGgtNnRmSEE5QUE4VGpIN3dFZnhQU1c4c0JSX09Edy02WkNhZVdUSEpscUVvbzNMWVktLVpVQTF6ZnVvQ3R2V05YVzQ?oc=5",
-      "source": "FX168财经",
-      "published": "2026-11-22T08:57+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "2026年最新江南体育app正规吗指南：热点节目与市场解读",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1Z2txXzBzWlN6NzNGMWtBQjdEc0lHRmhsMjlVMHVPNWIzaFhrMFdoa0NkQ2NPa0Z5UC1SbFhhdFBicFIxREVrd21FeWdla3pLMGhybXM2aWhjNXh0SjRuWnlCajlBYkU?oc=5",
-      "source": "iheima",
-      "published": "2026-11-22T06:41+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "黄金跌跌不休，何时反弹？",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUTlibk9xZjczcUFaWE5jaU41SVpiYVN5Rzl4eWVtRk81ZVJqTGpsNTdERk85UUNrd252dzY1blpKZ1ZvcVBWSlU1UV9jWXlQM0pXeFgwNXY1el80ZzFZOVdFWmtLUHAyVndYT2VjMVJERjd3aS15QkpRZ0VvR0trOEhWV0N2U29lM3gyRnZDaw?oc=5",
-      "source": "21财经",
-      "published": "2026-11-22T06:30+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "成都“特色立园”，产业集群正加速成形",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zVGpWRjZHQkhXSGJZX0J3djgwUFRNNHJDNHJDTE9saW5KNWdWeXBkajVpbEtzV2M1MjZGWFV2ZWZMQV9XWVZIQWlTcE9WTXNBSWxBVTVJYWNibXR4a09ia29aU1VoZ040aFE?oc=5",
-      "source": "四川日报",
-      "published": "2026-11-21T22:12+00:00",
-      "category": "chengdu"
+      "title": "美伊陷入时间博弈：特朗普急于破局，伊朗寻求拖延-市场参考",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZU1BiQjRabmI2ajgtWlh5VndGYjhYb0FVSV96blFNYjJmeHRWSEIxdWIwOUM5YUVIcUJWUU11c1BtajZQNS13Z0hQQi14X0E?oc=5",
+      "source": "金十数据",
+      "published": "2026-11-22T04:40+00:00",
+      "category": "world"
     }
   ],
   "gold": {
-    "price_usd_oz": 3539.0,
+    "price_usd_oz": 3584.050049,
     "symbol": "XAU",
-    "updated_at": "2026-11-22T22:00:10Z",
+    "updated_at": "2026-11-23T02:33:41Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-22T22:00:19Z",
+  "gold_updated_at": "2026-11-23T02:33:48Z",
   "earthquakes": [
     {
       "magnitude": 4.9,
@@ -1783,7 +1790,9 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-22T22:00:19Z",
-  "last_attempt_at": "2026-11-22T22:00:19Z",
-  "errors": []
+  "earthquakes_updated_at": "2026-11-23T02:33:48Z",
+  "last_attempt_at": "2026-11-23T02:33:48Z",
+  "errors": [
+    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  ]
 }
