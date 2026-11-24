@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T06:26:55Z",
+  "updated_at": "2026-11-24T18:02:47Z",
   "weather_updated_at": "2026-11-24T06:26:53Z",
-  "news_updated_at": "2026-11-24T06:26:54Z",
+  "news_updated_at": "2026-11-24T18:02:46Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,11 +1724,67 @@
   },
   "news": [
     {
-      "title": "11月24日财经早餐：黄仁勋回归英伟达提振信心，低吸买盘助推金价从逾一年低位反弹，油价触及三个月低点_外汇动态报道",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlZkV6M0ltbHRONEdrbjhGX2hnTmRyN21rSVozNkttdV9Uci12MnVyamVjM1pRWUhyUHNTckt1Z1gzdXZwX3lvcUhSLWdTWnl3MHRLdnV1elNjQQ?oc=5",
-      "source": "汇通财经",
-      "published": "2026-11-23T23:35+00:00",
+      "title": "黄仁勋回归行情迅速夭折！英伟达暴跌超8%、纳指重挫2.5% 黄金大跌75美元、比特币跌破6万美元",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHFSTzhzZU9Va3pqWUUtTmM2SGI0VlFnMlo2ZXJtSHVSbXFtZFJVOHVheEg2Ty1weUljQXluRnpzdXl3TXE3cWUxdVBUa2tydTlTWXhTRG9idERKa2ZrYnNzZVlyb3dfeG9CaXJCMEFmRVJuNXdObzlfbUpCNGlIYVg5Z18?oc=5",
+      "source": "FX168财经",
+      "published": "2026-11-24T17:01+00:00",
       "category": "finance"
+    },
+    {
+      "title": "五城共答：如何衡量一座城市的“青年兑现率”？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VUEg1SU4tczBfVXBLNmQ2ODczVzd3MzR5ai1yRmM1Yld4ZkJFM25TVkU3QUQyOWVYbGhZVU0xY05vajlqNk9CUmlsVUdONU1xU0FJSk5SUVhieUlwT3lEVDQ1ZVU3Zw?oc=5",
+      "source": "www.mrjjxw.com",
+      "published": "2026-11-24T14:23+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "为省委经济工作会议献一策丨从“都市圈”到“返乡”，活动第一周，四川网友建议里既有发展思考也有民生细节",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85c0o0UVZTT3BPMFFQUmhmdnVWWW9JUGtJb2N5bjZNeldVUmJ5N181TkhhT185eW50R1ZvR0RrNUVsTTQxT0JVM1lCS2FFa0RDSVEtRUMwLURrLS1lSE82VzEwYw?oc=5",
+      "source": "四川新闻",
+      "published": "2026-11-24T11:41+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "黄仁勋王者归来，黄金也跟着沾光！金价勉强守住3600、PCE是重头戏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZEk5aHVWOUFNUDBMSnQyWlpzYndyVHItcjNxbnlTR3FmNndpU3lTNEk5eFh2RnV3NjNOS25yWUhSdjdVM1BlQVpRYnV3MDZObGxfMkhFeEt5TXZ1cXhxWHVtYmdaT2x5QlZUTQ?oc=5",
+      "source": "FX168财经",
+      "published": "2026-11-24T11:02+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "资产配置周报丨关注全球流动性及风险偏好修复",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXEwMmt6Q2ZLb2RtQ19ZOENubjdRTjdFN1p1YU9EeUJnM0swd3hRMEVXbTZtQkVYSGpWTi10YWVlNkxEb2JNSnpWMzhKSUNtUWMzcXBTM3o1N1RITDI2VFhnMF82UXU0VThOM2xFWmhmS05jb1VtbEppWXc1bWI3LXlpQzgzZDU1b3JLdzhzYw?oc=5",
+      "source": "21财经",
+      "published": "2026-11-24T10:42+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "俄罗斯警告爱沙尼亚或引发战争，波罗的海紧张局势升级-市场参考",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wYnJEWGtfc0lvSk5MX1NmOWRoWkZabVkyM2VMM1FONFJ6Q18zYkNuNzBWVUlRS0lWbmRLQ2o5bW1rR0lXQ3hpdXNsZDdEa0U?oc=5",
+      "source": "金十数据",
+      "published": "2026-11-24T09:42+00:00",
+      "category": "world"
+    },
+    {
+      "title": "“水星”号遭袭与的黎波里的反应： 乌克兰与利比亚之间会爆发战争吗",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnd1NEtZVUxPZE9NdEpKRlMtbEhNRDd2VHAwLTNYME9tOVE0MVd1Mzk4V3ZYYnpTVzF6SUliNnI4S1RVZUcyWFNySU5QX0VJYnJFT0NhcU16bVpGaExXV3BVZ0ZDcEdEcXBTNFJVVHZBVTdHUWhsN1Qyb01TOTRPbVgtQWE3Z20yY1ZUQmpiMUZTQ0dRVDRqY0RhQXNCUW1kUjVKd1RBWXpWUEtSUnc?oc=5",
+      "source": "UA.NEWS",
+      "published": "2026-11-24T09:15+00:00",
+      "category": "world"
+    },
+    {
+      "title": "群城竞位下一程：乐山，何以争“先”？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mckw5cUt5Z0wzZTUtdXkxZzFlRVIwNWMyOGVlMGZoNW1INlJqVm9xTFlYdGdDUVNCUEdyX3BXT2d5d1ZwbGpOSGlKY3JBYTg4YWlNS1BNNnJob0tRTG9ibl81cE5sQQ?oc=5",
+      "source": "每日经济新闻",
+      "published": "2026-11-24T09:10+00:00",
+      "category": "chengdu"
+    },
+    {
+      "title": "从东盟与APEC之行看“全球责任强国”成果和课题",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mbGEybFk3UER6UHN3TjJxYzFEeHp2TmFNYVJDVWJnV09LcE1ZMERUQnhxT2VYRnFLeXpJVUhpSG9vaU5WVGh1QS1ybGFCaUhOVW1BOGw0d1VaMGczVkE1SmlzTGpoeFdPNWhvbXdlM09Dc2s?oc=5",
+      "source": "Korea.net",
+      "published": "2026-11-24T08:29+00:00",
+      "category": "world"
     },
     {
       "title": "欧洲孤注一掷援助乌克兰的真相：现实、幻觉与虚伪",
@@ -1736,71 +1792,15 @@
       "source": "香港01",
       "published": "2026-11-23T23:30+00:00",
       "category": "world"
-    },
-    {
-      "title": "黄金自14个月低点反弹，英伟达恢复黄仁勋首席执行官职务",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMTdTZE1abVRKeW15WE43cFNaSEhUMWZyVUZSdzhRNVh1c0ZKYmt1ZlYtOHlvREk1UkdyaTd4SzdWTFllQXFlN2lyNmlVemlZYXd1NkhwWmk1Q0E?oc=5",
-      "source": "汇通财经",
-      "published": "2026-11-23T16:25+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "张雅屏：中美俄都谈和平 台应寻求两岸对话",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTM1SDVBNl93ejJiRWZEMjBKV3o3Sm9wVnBpMF9KdEE2clVoMDNwVTdtd0ZlbWRJRjZmVVBmNnpvWGNMaDNFU0xjaXJnQzAxODNWUDZuS3ZNcFdSN3RLQUlfd0wxRGgzNWtnWWhjdjNvTXNuYllCbkJKcTRWbUlTRnZ6Z0RaV25fR3c?oc=5",
-      "source": "中国评论",
-      "published": "2026-11-23T16:22+00:00",
-      "category": "world"
-    },
-    {
-      "title": "大国的历史主动，落笔即成新章",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXYxVnFxbjNnM0tBcGFfTWNINmNJVjBpV2RRaWF1T254M1pXY3JONjY4bFRIbU5ySDY5eWUxZ1V3QjAwUnhIQndkV2FxekFTMm44bE10Q1JMRVlIM2hDM0VzcEl2cnIwOHphYVJmVkhpR3gydG5VWFJ2bWVYZTJaUXBoMGt2UQ?oc=5",
-      "source": "北欧时报",
-      "published": "2026-11-23T15:06+00:00",
-      "category": "world"
-    },
-    {
-      "title": "美国海上封锁步步紧逼，伊朗强硬派呼吁主动升级反制打破僵局-市场参考",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90S1hCSjMtaXpLYjJfQ1RXY0JvMUhSMS1kN2Zack92dGdEc1BxV2RTb3dTT1EzbFAtVHZER2g1NExZRGZkbHpyUnE2TjlCcXM?oc=5",
-      "source": "金十数据",
-      "published": "2026-11-23T15:05+00:00",
-      "category": "world"
-    },
-    {
-      "title": "眉山新方位：加快建设“一区一城”，有何深意？丨省情研究所",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkb01neDljSV83dEQxampjMklLWEctLVlRaVZ6djlab1dwaWIyeHdjaFI4aXkwSEdMbVdrcVM5ajRMRmU5elBWdzNsQUtSZw?oc=5",
-      "source": "川观新闻",
-      "published": "2026-11-23T14:42+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "42亿元项目落地，企业如何在成都“链入全球”？｜成都发展",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2dYNG9td3VQWjdrWndtUmEzS3ZKZVp1R2VIQkI2RXlPZm84RkRjdFRaTHYyRDk3dlh2aDYtLXZoTExTN3lpaDJhekJBT0w3UE1OM0x6ekFXWGd5SmFsWXlQeG5hUUtWLUpzNjI5cE5JUE5qbjNuak84akxMVl9pZVRZcDdlSExDWGw2NQ?oc=5",
-      "source": "Sohu",
-      "published": "2026-11-23T13:46+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "重点深化五大场景合作！四川推动人工智能与文旅全方位融合",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsbHJNenNobXRZS2stelhfZm5TdE4yWFRZTWJwMVhrUEdfMHc1STR5dUMzN2JsZHh5Q3ZqaDBLbGNnYzdQMFpZOEFmNEwxaExjanNhRnZjX1JXMXN1M29raV91Umd6ZW9qdl85U0tqUVEybWlvMkR5X2ZpRllDZw?oc=5",
-      "source": "手机新浪网",
-      "published": "2026-11-23T10:22+00:00",
-      "category": "chengdu"
-    },
-    {
-      "title": "下周展望：AI板块遭抛售，通胀数据与美联储政策预期料将主导市场走势",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVg5bkJOMDhBRjV1YTd5YS1tdE16SGtDSFdLTXlNN3ZmN3B5RkxoYmhfUVlZYUNiMTdNckRrNUNSbWJBbTdaSHk4cXBudkRKNUwtaW05TVEybjNpRTZYTGFHVUxENmJsOE5xaDhjdWI2R3V6OUl2WWtDdG9sQ0Q5aW0xLS1YdUVaWVFKdlk1Z2Y2Vnh2OGZWLWZsX2lsZWtkdURXTTJOLWRvNVNfek1PZmpQc01WWFJVZG00NHVNaGxRRml2TkVVWlBWX3A?oc=5",
-      "source": "www.tmgm.com",
-      "published": "2026-11-23T09:02+00:00",
-      "category": "finance"
     }
   ],
   "gold": {
-    "price_usd_oz": 3622.75,
+    "price_usd_oz": 3567.75,
     "symbol": "XAU",
-    "updated_at": "2026-11-24T06:26:43Z",
+    "updated_at": "2026-11-24T18:02:44Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-24T06:26:55Z",
+  "gold_updated_at": "2026-11-24T18:02:47Z",
   "earthquakes": [
     {
       "magnitude": 4.9,
@@ -1811,7 +1811,9 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-24T06:26:55Z",
-  "last_attempt_at": "2026-11-24T06:26:55Z",
-  "errors": []
+  "earthquakes_updated_at": "2026-11-24T18:02:47Z",
+  "last_attempt_at": "2026-11-24T18:02:47Z",
+  "errors": [
+    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  ]
 }
