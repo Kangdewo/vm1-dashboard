@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T11:24:27Z",
+  "updated_at": "2026-11-25T20:32:38Z",
   "weather_updated_at": "2026-11-25T11:24:25Z",
-  "news_updated_at": "2026-11-25T11:24:27Z",
+  "news_updated_at": "2026-11-25T20:32:38Z",
   "weather": {
     "latitude": 30.544815,
     "longitude": 104.08235,
@@ -1724,6 +1724,34 @@
   },
   "news": [
     {
+      "title": "黄金最新一轮价格回落3.3%的背后原因是什么？",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSXhhS1g2emhId3FadDZULVhtM01JVzh6THR2bmUxVWQtNTc5NWd0S2UtdXRCZlJ4RkZLYkEtWEZ3eE9DS2EzZ1hlbmVyVTcwLVhUV0lwdndaMXBMclVQSUxsRTh5N3FKb1BfYkRXdTRyWVY1VFdHcVg0QmZEcWtfLXFIakxpV1N1SnNQbk9mOWh5MnkzQUE?oc=5",
+      "source": "Traders Union",
+      "published": "2026-11-25T15:32+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "乌克兰袭击了俄罗斯在利比亚的船只，意大利担心战争扩展至地中海，并加大对梅洛尼政府的压力",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1lyczV2YzVKZ1A5clE3aUNRVy1jN1dCT2lhVkY4VmVsNXp0cnZCNlJjelBxOUpIZXhIUlVlb3FCakNLdzBQSF9wMjJWM1h0QlI0X2tNOFE5UURyS0hwYWdFWUU5c3R5RzJxODVvb2pET1RWaGtoMGlkWGFpZ2ZRUW9RbFNYcXlBSG5NQWFfbVRxNXJiQVNtS0dDZTBYUGVyNkkyU0ln?oc=5",
+      "source": "Informat.ro",
+      "published": "2026-11-25T13:06+00:00",
+      "category": "world"
+    },
+    {
+      "title": "市场白送美联储100个基点紧缩，沃什却仍要加息？黄金原油外汇面临的新定价逻辑！_外汇动态报道",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEbGp3Ty1PTEZQdmx1Z014WktxWVhwYTgxcEl1Z0lreHZ2c2xoQTNKTDFOYmNjdUxhLUxtc0FCUElUd2I5MDlLWWhzOHpYS0JwTVhteHl3Y1RQdw?oc=5",
+      "source": "汇通财经",
+      "published": "2026-11-25T12:30+00:00",
+      "category": "finance"
+    },
+    {
+      "title": "《成都市轨道交通与城市融合设计导则》出台 成都有了轨道交通“站城四融合”的顶层设计",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43UEF3V1lMVDVHZjdtajVpOW53VHdERnNqS25pdjlyS0U5Nk9tdTU2NjRTTEFtcEZLOXlEdi03SFZsbXJRa0pLRFdfYW9FQQ?oc=5",
+      "source": "川观新闻",
+      "published": "2026-11-25T12:13+00:00",
+      "category": "chengdu"
+    },
+    {
       "title": "独家：罗马尼亚相关在线来源中的国家排名：乌克兰和俄罗斯主导对外议程。中国通过在深圳举行的峰会提升了曝光度",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jY2Y2bUJhYWhvVHVPTlVOTDdZVUJTMFpFVWhJXzBXYmo1ZEtoYWVpWnBhdG5jdjlSaWVOZmRLZnhXaDJ3MDJCSFFKbzkxQ1pLQW5yeVIxTFRYSzVMeGl3U0dDeng1QQ?oc=5",
       "source": "Informat.ro",
@@ -1764,43 +1792,15 @@
       "source": "汇通财经",
       "published": "2026-11-24T23:40+00:00",
       "category": "finance"
-    },
-    {
-      "title": "11月25日财经早餐：美联储鹰派预期压制，金价再测3550关口，油价创近三个月新低，供应过剩预期压制反弹",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3eGZGaFRPMFVhcFlIQnpYZEpIbENGNld0TjZEWHJhOEphTE9DdWNuR1ppdjl2V2lMNlJMTldkdklhTTRzaHN1YUhVbjNrdFU1WS1YYnJMZ0JmdjA?oc=5",
-      "source": "汇通财经",
-      "published": "2026-11-24T23:32+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "黄仁勋回归行情迅速夭折！英伟达暴跌超8%、纳指重挫2.5% 黄金大跌75美元、比特币跌破6万美元",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHFSTzhzZU9Va3pqWUUtTmM2SGI0VlFnMlo2ZXJtSHVSbXFtZFJVOHVheEg2Ty1weUljQXluRnpzdXl3TXE3cWUxdVBUa2tydTlTWXhTRG9idERKa2ZrYnNzZVlyb3dfeG9CaXJCMEFmRVJuNXdObzlfbUpCNGlIYVg5Z18?oc=5",
-      "source": "FX168财经",
-      "published": "2026-11-24T17:01+00:00",
-      "category": "finance"
-    },
-    {
-      "title": "美国海上封锁步步紧逼，伊朗强硬派呼吁主动升级反制打破僵局-市场参考",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90S1hCSjMtaXpLYjJfQ1RXY0JvMUhSMS1kN2Zack92dGdEc1BxV2RTb3dTT1EzbFAtVHZER2g1NExZRGZkbHpyUnE2TjlCcXM?oc=5",
-      "source": "金十数据",
-      "published": "2026-11-24T14:35+00:00",
-      "category": "world"
-    },
-    {
-      "title": "五城共答：如何衡量一座城市的“青年兑现率”？",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTFLT0phU21xUW5QLUgtY1FHNndSakpmbnFXZ1lzMFBiMmhGV0JPRjRWNFUwY1pKSXBKRG8zaDBzRWltdHdXV2taTTJZNGdMaU1mNjFyajU0Y2ZKM20wYmNRYlNGTkRXaVczNXRkdkpPZHVWdHBZZVg0ZDJOVGh3WUkyUTRpa19J?oc=5",
-      "source": "Sohu",
-      "published": "2026-11-24T14:23+00:00",
-      "category": "chengdu"
     }
   ],
   "gold": {
-    "price_usd_oz": 3524.300049,
+    "price_usd_oz": 3580.0,
     "symbol": "XAU",
-    "updated_at": "2026-11-25T11:24:15Z",
+    "updated_at": "2026-11-25T20:32:16Z",
     "source": "Gold API"
   },
-  "gold_updated_at": "2026-11-25T11:24:27Z",
+  "gold_updated_at": "2026-11-25T20:32:38Z",
   "earthquakes": [
     {
       "magnitude": 4.3,
@@ -1817,7 +1817,9 @@
   ],
   "official_alerts": [],
   "notes": "初始化占位数据。请运行 scripts/update.py 或 GitHub Actions。未接入官方灾害预警。",
-  "earthquakes_updated_at": "2026-11-25T11:24:27Z",
-  "last_attempt_at": "2026-11-25T11:24:27Z",
-  "errors": []
+  "earthquakes_updated_at": "2026-11-25T20:32:38Z",
+  "last_attempt_at": "2026-11-25T20:32:38Z",
+  "errors": [
+    "weather: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  ]
 }
